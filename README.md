@@ -49,7 +49,7 @@ A powerful and feature-rich Discord webhook management tool created by [rescore]
 
 3. **Run the tool**
    ```bash
-   python poseidon.py
+   python main.py
    ```
 
 4. **Enter your Discord webhook URL when prompted**
